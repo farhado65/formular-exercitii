@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+fieldset {
+    border: none;
+    margin-left: -10px;
+}
+
+
